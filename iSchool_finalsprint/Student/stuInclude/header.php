@@ -44,7 +44,7 @@ include_once('../dbConnection.php');
 <body>
  <!-- Top Navbar -->
  <nav class="navbar navbar-dark fixed-top flex-md-nowrap p-0 shadow" style="background-color: #225470;">
-  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="studentProfile.php">E-Learning</a>
+  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="studentProfile.php">iSchool </a>
  </nav>
 
  <!-- Side Bar -->
